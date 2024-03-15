@@ -39,12 +39,12 @@
 ## Deploy to Heroku
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deploy.ultroid.tech)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://cloud.heroku.com/deploy?repository=https://github.com/TeamUltroid/Opuserbot://cloud.heroku.com/deploy?repository=https://github.com/TeamUltroid/Opuserbot)
 
 ## Deploy to Okteto
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!
 
-[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/TeamUltroid/Ultroid)
+[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](httphttps://cloud.okteto.com/deploy?repository=https://github.com/TeamUltroid/Ultroids://cloud.okteto.com/deploy?repository=https://github.com/TeamUltroid/Ultroid bhi)
 
 ## Deploy Locally
 - [Traditional Method](#local-deploy---traditional-method)
