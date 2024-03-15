@@ -39,7 +39,7 @@
 ## Deploy to Heroku
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://cloud.heroku.com/deploy?repository=https://github.com/TeamUltroid/Opuserbot://cloud.heroku.com/deploy?repository=https://github.com/TeamUltroid/Opuserbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?repository=https://github.com/TeamUltroid/Opuserbot://heroku.com/deploy?repository=https://github.com/TeamUltroid/Opuserbot)
 
 ## Deploy to Okteto
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!
